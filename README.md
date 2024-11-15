@@ -14,7 +14,6 @@ The **Colored Markers** project is a web-based visual demonstration of CSS styli
 3. [CSS Details](#css-details)
 4. [How to Use](#how-to-use)
 5. [Summary of Selectors Used](#Summary-of-Selectors-Used)
-6. [Future Enhancements](#future-enhancements)
 
 ---
 
@@ -109,12 +108,5 @@ Example for the red marker:
 ---
 
 ![image](https://github.com/user-attachments/assets/1853fabf-7549-4d26-8f08-566009605e0a)
-
----
-### **Future Enhancements**
-- **Dynamic Colors:** Use JavaScript to allow users to pick custom colors.
-- **Interactive Markers:** Add animations when hovering over markers.
-- **Responsiveness:** Ensure the layout adapts to various screen sizes.
-- **Documentation:** Expand wiki to include browser compatibility and advanced tips.
 
 ---
