@@ -1,6 +1,6 @@
 
 
-# **Colored Markers Project Wiki**
+# **Colored Markers**
 #### Learned it from freecodecamp
 ---
 ### **Overview**
