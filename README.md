@@ -1,7 +1,8 @@
 
 
 # **Colored Markers**
-#### Learned it from freecodecamp
+#### Learned it from [freeCodeCamp](https://www.freecodecamp.org/)
+###### Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers. In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
 ---
 ### **Overview**
 The **Colored Markers** project is a web-based visual demonstration of CSS styling techniques. It showcases color gradients and box shadows applied to elements to resemble marker pens. The project emphasizes the creative use of CSS properties, such as gradients, shadows, and layout styling.
@@ -75,7 +76,7 @@ Example for the red marker:
 ### **How to Use**
 1. **Clone the Project:**
    ```bash
-   git clone https://github.com/your-username/colored-markers.git
+   git clone https://github.com/shadyashraf174/Set-of-Colored-Markers
    cd colored-markers
    ```
 2. **Open the Project:**
